@@ -1,4 +1,26 @@
 body{
-    color: rgb(4, 70, 73);
-    backgrouns: rgb(244, 246, 244);
-}    
+    color: rgb(239, 159, 159);
+    background: rgb(206, 230, 206);
+    margin: 0px;
+    font-family: "Gravitas One", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px red;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(31, 38, 240);
+}
+
+section{
+    background: green;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+margin-right: 5%;
+}
+
